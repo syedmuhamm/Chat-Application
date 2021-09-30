@@ -12,7 +12,7 @@ const App = () => {
   2af01c4a-8efb-4d91-8821-f4c583876264"
       userName="javascriptmastery"
       userSecret="123"
-      renderChatFeed={(chatAppProps) => <Chatfeed {...chatAppProps} />}
+      renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps} />}
     />
   );
 };
